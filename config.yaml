@@ -8,6 +8,7 @@ packages:
    access: ci vercel vmendiolalau giorgio quantizations andre voidberg1 vonoro cosmos-redshift
    publish: ci voidberg1 vonoro
    unpublish: not-real-acc
+  '@rolla-services-core/*':
    proxy: npmjs
    access: ci vercel vmendiolalau voidberg1 giorgio quantizations andre
    publish: ci andre
